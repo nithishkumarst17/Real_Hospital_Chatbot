@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Bilingual (Tamil + English) Hospital AI Assistant
 
 Production-style hospital assistant backend with LLM-powered intent routing,
@@ -179,3 +180,6 @@ or
 - Add automated tests (pytest + httpx TestClient) for each router.
 - Add a `Dockerfile.worker` if you split ChromaDB ingestion into a background
   worker for large document sets.
+=======
+this is hospital ai chatbot
+>>>>>>> 942aceb52c64af6007d90624a0d6f806f01ba3cf
